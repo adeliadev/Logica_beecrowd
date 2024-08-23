@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Desafio1012 {
     public static void main(String[] args) {
-        // área do triângulo, círculo, trapézio, quadrado e retângulo
+        // Área do triângulo, círculo, trapézio, quadrado e retângulo
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Valor A: ");

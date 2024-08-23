@@ -2,6 +2,7 @@ package Pagina1;
 
 public class Desafio1008 {
     public static void main(String[] args) {
+        // Salário e número de um funcionário
         int numeroFuncionario = 25;
         int horasTrabalhadas = 100;
         double valorPorHora = 5.50;

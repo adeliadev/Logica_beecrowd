@@ -2,6 +2,7 @@ package Pagina1;
 
 public class Desafio1007 {
     public static void main(String[] args) {
+        // Diferença entre números
         int a = 5;
         int b = 6;
         int c = 7;

@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Desafio1037 {
     public static void main(String[] args) {
+        // Intervalo entre valores
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Digite um valor: ");

@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Desafio1020 {
     public static void main(String[] args) {
+        // Idade em anos, meses e dias
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Idade em dias: ");

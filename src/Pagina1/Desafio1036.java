@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Desafio1036 {
     public static void main(String[] args) {
+        // Fórmula de baskhara
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Valor de A: ");

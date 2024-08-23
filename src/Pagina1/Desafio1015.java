@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Desafio1015 {
     public static void main(String[] args) {
-        // distância entre dois pontos
+        // Distância entre dois pontos
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Digite o valor de x1: ");

@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Desafio1013 {
     public static void main(String[] args) {
-        // maior entre A, B e C
+        // Maior entre A, B e C
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Valor de A: ");

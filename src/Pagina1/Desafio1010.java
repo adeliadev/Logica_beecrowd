@@ -2,6 +2,7 @@ package Pagina1;
 
 public class Desafio1010 {
     public static void main(String[] args) {
+        // Valor total de uma compra
         int codigoPeca1 = 12;
         int numeroPeca1 = 1;
         double valorPeca1 = 5.30;

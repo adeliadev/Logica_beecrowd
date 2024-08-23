@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Desafio1018 {
     public static void main(String[] args) {
-        // conversão de valor em cédulas
+        // Conversão de valor em cédulas
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Valor: ");

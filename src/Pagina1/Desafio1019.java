@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Desafio1019 {
     public static void main(String[] args) {
+        // Segundos em horas
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Duração em segundos: ");

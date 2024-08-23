@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Desafio1017 {
     public static void main(String[] args) {
-        // gasto de combustível
+        // Gasto de combustível
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Tempo de viagem [horas]: ");

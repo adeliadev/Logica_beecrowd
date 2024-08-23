@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Desafio1038 {
     public static void main(String[] args) {
+        // Compra de lanche
         Scanner sc = new Scanner(System.in);
 
         System.out.println("=== CARDÁPIO ===");

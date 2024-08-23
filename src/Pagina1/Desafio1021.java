@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Desafio1021 {
     public static void main(String[] args) {
+        // Decomposição de um valor em cédulas e moedas
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Valor para decomposição: ");

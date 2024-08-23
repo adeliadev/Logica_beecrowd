@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Desafio1040 {
     public static void main(String[] args) {
+        // Média de um aluno
         Scanner sc = new Scanner(System.in);
 
         System.out.print("1ª nota: ");

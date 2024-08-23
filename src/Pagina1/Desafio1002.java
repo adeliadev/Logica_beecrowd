@@ -2,6 +2,7 @@ package Pagina1;
 
 public class Desafio1002 {
     public static void main(String[] args) {
+        // Calculo da área
         double n = 3.14159;
         double raio = 2.00;
 

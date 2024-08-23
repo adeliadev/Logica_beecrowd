@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Desafio1014 {
     public static void main(String[] args) {
-        // consumo médio de um automóvel
+        // Consumo médio de um automóvel
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Distância percorrida: ");

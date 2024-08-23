@@ -2,6 +2,7 @@ package Pagina1;
 
 public class Desafio1009 {
     public static void main(String[] args) {
+        // Salário com bônus
         String nomeFuncionario = "João";
         double salarioFixo = 500.00;
         double vendasMensais = 1230.30;

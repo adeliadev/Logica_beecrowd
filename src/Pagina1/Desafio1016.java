@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Desafio1016 {
     public static void main(String[] args) {
-        // distância entre carro X e carro Y
+        // Distância entre carro X e carro Y
         Scanner sc = new Scanner(System.in);
 
         // velocidade constante

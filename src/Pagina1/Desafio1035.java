@@ -3,6 +3,7 @@ package Pagina1;
 import java.util.Scanner;
 
 public class Desafio1035 {
+    // Vários valores e condições
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
